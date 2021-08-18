@@ -1,1 +1,36 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>html첫날입니다.</title>
+    <style>
+        h1,h2,h3,h4,h5,h6{
+            color:navy;
+            background-color: lightblue;
+            border-width:10px;
+            border-style:dotted;
+            border-color:red;
+            margin: 0;
+        }
+        
+    </style>
+</head>
+<body>
+    첫날 수업 어땠어요?
+    <h1>제목태그</h1>
+    <h2>제목태그</h2>
+    <h3>제목태그</h3>
+    <h4>제목태그</h4>
+    <h5>제목태그</h5>
+    <h6>제목태그</h6>
+    <p>
+      heading태그, p태그 는 블럭요소이다.
+      블럭요소의 특징 -> 한줄을 다 차지한다.
+                                옆에 다른 요소가 올 수 없다.
+                                자동으로 위, 아래에 여백이 생성된다.
+    </p>
+    <p>
+        p태그는 단락태구 -> 문장, 문단을 넣을 수 있는 태그.
+    </p>
+</body>
+</html>
